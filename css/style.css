@@ -56,6 +56,9 @@
   text-transform: uppercase;
   padding: 10px 13px;
 }
+.nodecor {
+  text-decoration: none;
+}
 .menu-link:hover {
   color: #212121;
   border-bottom: 2px solid #212121;
@@ -314,7 +317,6 @@
   background-image: url(../img/arrow_big.svg);
 }
 .product h1 {
-  Text: Fishnet Chair;
   font-family: Montserrat;
   font-size: 22px;
   line-height: 29px;
